@@ -1,0 +1,13 @@
+rivers = ['indus river', 'jhelum river', 'ganga river', 'nile river', 'amazon river', 'niger river']
+print(rivers)
+print(sorted(rivers))
+print(sorted(rivers, reverse=True))
+print(rivers)
+rivers.reverse()
+print(rivers)
+rivers.reverse()
+print(rivers)
+rivers.sort()
+print(rivers)
+rivers.sort(reverse=True)
+print(rivers)
