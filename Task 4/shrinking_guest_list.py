@@ -35,8 +35,8 @@ print(names[1].title() + " You are invited in dinner")
 print(names)
 
 #del names[0]
-#del names[1]
-#del names[-2]
-#del names[-1]
+#del names[1] it shows problem.why?
+del names[-2]
+del names[-1]
 
 print(names)
