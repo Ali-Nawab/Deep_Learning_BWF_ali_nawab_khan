@@ -1,0 +1,4 @@
+we have learned basics of python.
+we learned import this.
+we learned don't repeat yourself.
+we learned classes and inhertiance.
