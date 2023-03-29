@@ -14,8 +14,7 @@ try:
         print(contents.rstrip())
         
 except FileNotFoundError:
-    print("File is not found in directory.")
+    print("File is not found in directory.") # if the file is not found, print this message. 
+    # pass # if the file is not found, pass the error. Silently fail it.
     
 
-
-print(file_object1)
